@@ -1,7 +1,6 @@
 - 👋 Hi, I’m mianto
 - 👀 I’m interested in ... DNN , Face Recog , CNN 
 - 🌱 I’m currently learning ... transformer
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
