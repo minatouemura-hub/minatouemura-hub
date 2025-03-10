@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Minato Uemura
 - I’m interested in ... DNN, CNN, Reinforce Learning 
 - I’m currently learning ... Reinforce Learning, Algorithm
-- Affiliation ... Yokohama National University
+- Affiliation ...Nara Institute of Science and Technology
