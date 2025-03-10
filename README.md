@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Minato Uemura
-- I’m interested in ... DNN, CNN, Reinforce Learning 
-- I’m currently learning ... Reinforce Learning, Time Series Analysis, Natural Language Processing
+- I’m interested in ... DNN, CNN, Reinforcement Learning 
+- I’m currently learning ... Reinforcement Learning, Time Series Analysis, Natural Language Processing
 - Affiliation ...Nara Institute of Science and Technology
