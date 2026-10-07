@@ -116,8 +116,8 @@ The goal is to model relationships between **interoceptive**, **exteroceptive**,
 
 <p align="center">
   <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=minatouemura-hub&theme=flat&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true"
-    width="100%"
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=minatouemura-hub&theme=flat&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true"
+    alt="GitHub Trophies"
   />
 </p>
 
