@@ -118,11 +118,11 @@ The goal is to model relationships between **interoceptive**, **exteroceptive**,
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=minatouemura-hub&show_icons=true&hide_border=true&theme=transparent"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minatouemura-hub&layout=compact&hide_border=true&theme=transparent"
   />
 </p>
 
@@ -132,24 +132,7 @@ The goal is to model relationships between **interoceptive**, **exteroceptive**,
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=minatouemura-hub&theme=github-compact&hide_border=true"
     width="95%"
-  />
-</p>
-
----
-
-<p align="center">
-  <i>Researching intelligent systems that learn from and interact with humans.</i>
-</p>
-
-<!-- ========================= -->
-<!-- Footer -->
-<!-- ========================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:1E3A8A,100:2563EB&height=120&section=footer"
-    width="100%"
   />
 </p>
