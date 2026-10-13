@@ -2,12 +2,11 @@
 <!-- Header -->
 <!-- ========================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=Uemura&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20AI%20Researcher&descAlignY=55&descSize=18"
-    width="100%"
-  />
-</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=wave&color=0:0F172A,50:1E3A8A,100:2563EB&height=250&section=header&text=Uemura&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20%7C%20AI%20Researcher&descAlignY=48&descSize=18"
+  alt="header"
+  width="100%"
+/>
 
 <!-- ========================= -->
 <!-- Typing Animation -->
